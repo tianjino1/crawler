@@ -1,5 +1,5 @@
 类Credit2是用来爬取淘大象网站中旺旺号查询功能
-![credit2](https://github.com/tianjino1/crawler/blob/master/picture/crawler/QQ%E6%88%AA%E5%9B%BE20181009151348.png)
+![credit2](https://raw.githubusercontent.com/tianjino1/crawler/master/picture/crawler/QQ%E6%88%AA%E5%9B%BE20181009151348.png)
 
 首先需要根据URL https://www.taodaxiang.com/credit2 获取PHPSESSID
 然后根据PHPSESSID和参数account进行post请求https://www.taodaxiang.com/credit2/index/get
